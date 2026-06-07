@@ -40,5 +40,3 @@ I’m a Data Engineer with hands-on experience building scalable ETL/ELT pipelin
 
 ## 📫 Connect With Me
 - LinkedIn: [Nilesh Banpurkar](https://www.linkedin.com/in/nilesh-banpurkar/)
-
-⚡ Fun fact: I enjoy transforming raw data into scalable and meaningful business solutions.
