@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nilesh Banpurkar
+# Nilesh Banpurkar
 
 💻 Data Engineer | Big Data Enthusiast | Cloud & ETL Developer  
 
